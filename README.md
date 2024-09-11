@@ -1,3 +1,3 @@
 # SEG2505
-Test
+Test,
 Bienvenue dans notre projet
